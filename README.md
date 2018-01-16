@@ -22,10 +22,10 @@ import matplotlib.pyplot as plt
 
 ```python
 # Twitter API Keys. Place your keys here.
-consumer_key = "LqZehyBrSOwzkGx7Cpwx4mhsK"
-consumer_secret = "k5taBhrfGgYNQ8ecW3JTbXibCb32f5kC375C8NF3CqAr7javKB"
-access_token = "133594066-M9KUh9H6JoDyva5bkTTRt8ojaZ9dCafHc9lazW1k"
-access_token_secret = "PMtstoGy0SR0yw4YqlQrge8ZRkpfy3aBeznE6WVsN8FC5"
+consumer_key = xxxx
+consumer_secret = xxxx
+access_token = xxxx
+access_token_secret = xxxx
 ```
 
 
